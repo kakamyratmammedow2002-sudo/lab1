@@ -1,3 +1,4 @@
 Первый файл
 Новая строка
 Dev line 1
+Friend line
